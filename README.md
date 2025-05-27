@@ -34,19 +34,6 @@ Line Plots: For average song durations over the years.
 
 
 
-# 📁 Project Structure
-
-spotify-tracks-analysis/
-├── data/                     # Dataset files
-├── scripts/
-│   ├── analysis.py           # Main analysis script
-│   ├── visualizations.py     # Visualization functions
-│   └── utils.py              # Helper functions
-├── outputs/                  # Generated visualizations and reports
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project overview
-
-
 ## 🎯 How It Works
 1️⃣ Data Preprocessing
 Handles missing values, formats dates, and extracts key features.
